@@ -1,8 +1,8 @@
-import DialogAp from "./components/DialogApp"
+import ProgressAp from "./components/ProgresbarApp"
 function App() {
   return (
     <>
-      <DialogAp />
+      <ProgressAp />
     </>
   )
 }
