@@ -5,20 +5,20 @@ import { Box } from "@mui/system";
 const ImageListAp = () => {
     const itemData = [
         {
-            img: './public/Pap.png',
-            title: 'Rasto Malika,Father',
+            img: './public/g',
+            title: 'Father',
         },
         {
-            img: './public/Mum.png',
-            title:'Millicent Aswani,Mother'
+            img: './public/',
+            title:'Mother'
         },
         {
-            img: './public/Mother.png',
-            title:'Sharon Iravongah,Mother'
+            img: './public/',
+            title:',Mother'
         },
         {
-            img: './public/Son.png',
-            title:'Kweyu Delron,Son'
+            img: './public/',
+            title:',Son'
         }
         
     ]
